@@ -1,0 +1,26 @@
+body {background-color: rgb(1, 235, 243);
+}
+h1 {color: aliceblue;
+    text-align: center;
+}
+h2 {color: antiquewhite;
+}
+#imagem {width: 50%;
+      margin-left:  25%;
+      border-style: solid;
+      border-color: rgb(94, 91, 91);
+      border-width: 4px;
+}
+body {border-color: rgb(41, 37, 37);
+    border-style: solid;
+}
+h3 {color: aliceblue;
+    text-align: center;
+    font-size: 230%;
+}
+#image {width: 50%;
+        margin-left: 25%;
+        border-style: solid;
+        border-color: rgb(94, 91, 91);
+        border-width: 4px;
+    }
